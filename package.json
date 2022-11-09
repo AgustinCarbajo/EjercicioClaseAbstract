@@ -1,0 +1,19 @@
+{
+  "name": "ejercicioclaseabstract",
+  "version": "1.0.0",
+  "description": "Ejercicio obligatorio cclase abstract",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinCarbajo/EjercicioClaseAbstract.git"
+  },
+  "author": "Agustin Carbajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinCarbajo/EjercicioClaseAbstract/issues"
+  },
+  "homepage": "https://github.com/AgustinCarbajo/EjercicioClaseAbstract#readme"
+}
